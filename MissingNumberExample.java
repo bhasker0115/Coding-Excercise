@@ -18,4 +18,5 @@ public class MissingNumberExample {
         int missingNumber = findMissingNumber(array);
         System.out.println("The missing number is: " + missingNumber);
     }
+    
 }
